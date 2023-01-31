@@ -1,0 +1,34 @@
+.wrapper {
+    margin: 0;
+    width: 1280px;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.logo{
+    margin: 0;
+    height: 100%;
+    width: 10%;
+    background: black;
+}
+.menu{
+    margin: 0;
+    height: 100%;
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+{
+    background: black;
+}
+
+.searchAndUserBlock{
+    height: 100%;
+    width: 35%;
+}
